@@ -19,8 +19,7 @@ Open the GNOME Terminal from [/src/](https://github.com/ivan-sincek/websocket-bf
 Install required packages:
 
 ```fundamental
-apt-get install bc
-apt-get install jq
+apt-get -y install bc jq
 ```
 
 Change file permissions:
